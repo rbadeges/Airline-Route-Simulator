@@ -1,0 +1,52 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Max Benson
+	
+Lecture section:  Tuesday/Thursday @ 1:00
+
+Recitation day and time:  Friday @ 10:00
+
+Assignment #:  4
+
+Program due date:  11/24/15
+
+Handed in date:  11/24/15
+
+Source code file name(s):
+
+Airline.java
+minHeap.java
+aListNode.java
+edge.java
+
+Other file name(s) (if relevant):
+
+
+Does your program run without error?: Yes, with some assumption about the input
+
+Assumption: there will never be a graph in which one city cannot be reached by any other (the city is completely isolated)
+(If such a graph is input, the program will realize the graph is not connected, but will not be able to identify the isolated city)
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
